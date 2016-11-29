@@ -1,0 +1,3 @@
+rootProject.name = 'HxChat'
+
+include ':app'
